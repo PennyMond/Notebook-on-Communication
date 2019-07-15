@@ -6,9 +6,9 @@
 
 雷蒙·威廉斯说： “[communication]是观念、 信息和态度借以传输和接受的制度与形式。 ”
 
-### Markdown
+### 传播学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+施拉姆: “有时候我们竟然忘记了传播研究是一个领域而不是一个学科。在有关研究中， 这个领域是一个巨大的十字路口。很多学者在此路过， 但很少有人驻足。来自不同学科的学者们从他们的各自学科进入这个领域， 带来了有价值的研究工具和理论， 然后就像拉斯韦尔一样又回到他们自己学科所关心的那些核心问题里去了。
 
 ```markdown
 Syntax highlighted code block
