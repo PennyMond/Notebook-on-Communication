@@ -28,7 +28,7 @@
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [铁道之旅：19世纪的空间与时间的工业化](https://mp.weixin.qq.com/s/6auC5NovA0MIJV8K7mc78w).
 
 ### 我的作品
 
