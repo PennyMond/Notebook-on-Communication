@@ -8,10 +8,10 @@
 
 ### 传播学
 
-施拉姆: “有时候我们竟然忘记了传播研究是一个领域而不是一个学科。在有关研究中， 这个领域是一个巨大的十字路口。很多学者在此路过， 但很少有人驻足。来自不同学科的学者们从他们的各自学科进入这个领域， 带来了有价值的研究工具和理论， 然后就像拉斯韦尔一样又回到他们自己学科所关心的那些核心问题里去了。
+施拉姆: “有时候我们竟然忘记了传播研究是一个领域而不是一个学科。在有关研究中， 这个领域是一个巨大的十字路口。很多学者在此路过， 但很少有人驻足。来自不同学科的学者们从他们的各自学科进入这个领域， 带来了有价值的研究工具和理论， 然后就像拉斯韦尔一样又回到他们自己学科所关心的那些核心问题里去了。”
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -30,10 +30,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 我的作品
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PennyMond/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 读书笔记
 
 
