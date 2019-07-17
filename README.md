@@ -12,28 +12,16 @@
 
 ```markdown
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [铁道之旅：19世纪的空间与时间的工业化](https://mp.weixin.qq.com/s/6auC5NovA0MIJV8K7mc78w).
-
-### 我的作品
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PennyMond/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### 读书笔记
+[铁道之旅：19世纪的空间与时间的工业化](https://mp.weixin.qq.com/s/6auC5NovA0MIJV8K7mc78w).
+[社会的构成：结构化理论纲要](https://mp.weixin.qq.com/s/mMRspKMqteMxnvR7IYuwHg).
+
+### 部分作品
+[澎湃-新传考研，哪家学校最难考？](https://mp.weixin.qq.com/s/EzT4ujF4Zq0vA9Tm16u4dg).
+[中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
+[人民日报海外版-欧盟高层换届艰难过关](http://paper.people.com.cn/rmrbhwb/html/2019-07/11/content_1935428.htm).
+
+
+
 
 
