@@ -16,7 +16,7 @@
 南大新传读书会 [社会的构成：结构化理论纲要](https://mp.weixin.qq.com/s/mMRspKMqteMxnvR7IYuwHg).
 
 ### 部分作品
-数据可视化 [澎湃-新传考研，哪家学校最难考？](https://mp.weixin.qq.com/s/EzT4ujF4Zq0vA9Tm16u4dg).
+数据可视化 [澎湃-新传考研，哪家学校最难考？](https://m.thepaper.cn/newsDetail_forward_3396485).
 
 评论 [中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
 
