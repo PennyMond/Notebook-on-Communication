@@ -10,16 +10,21 @@
 
 施拉姆: “有时候我们竟然忘记了传播研究是一个领域而不是一个学科。在有关研究中， 这个领域是一个巨大的十字路口。很多学者在此路过， 但很少有人驻足。来自不同学科的学者们从他们的各自学科进入这个领域， 带来了有价值的研究工具和理论， 然后就像拉斯韦尔一样又回到他们自己学科所关心的那些核心问题里去了。”
 
-```markdown
-
 ### 读书笔记
-[铁道之旅：19世纪的空间与时间的工业化](https://mp.weixin.qq.com/s/6auC5NovA0MIJV8K7mc78w).
-[社会的构成：结构化理论纲要](https://mp.weixin.qq.com/s/mMRspKMqteMxnvR7IYuwHg).
+南大新传读书会 [铁道之旅：19世纪的空间与时间的工业化](https://mp.weixin.qq.com/s/6auC5NovA0MIJV8K7mc78w).
+
+南大新传读书会 [社会的构成：结构化理论纲要](https://mp.weixin.qq.com/s/mMRspKMqteMxnvR7IYuwHg).
 
 ### 部分作品
-[澎湃-新传考研，哪家学校最难考？](https://mp.weixin.qq.com/s/EzT4ujF4Zq0vA9Tm16u4dg).
-[中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
-[人民日报海外版-欧盟高层换届艰难过关](http://paper.people.com.cn/rmrbhwb/html/2019-07/11/content_1935428.htm).
+数据可视化 [澎湃-新传考研，哪家学校最难考？](https://mp.weixin.qq.com/s/EzT4ujF4Zq0vA9Tm16u4dg).
+
+评论 [中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
+
+新闻 [人民日报海外版-欧盟高层换届艰难过关](http://paper.people.com.cn/rmrbhwb/html/2019-07/11/content_1935428.htm).
+
+
+
+
 
 
 
