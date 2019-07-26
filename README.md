@@ -25,8 +25,8 @@
 评论 [中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
 
 新闻 [人民日报海外版-欧盟高层换届艰难过关](http://paper.people.com.cn/rmrbhwb/html/2019-07/11/content_1935428.htm).
-新闻 [人民日报海外版-垃圾分类可以这样办](http://paper.people.com.cn/rmrbhwb/html/2019-07/22/content_1937219.htm).
-新闻 [人民日报海外版-海外华侨华人安全如何保障？](http://paper.people.com.cn/rmrbhwb/html/2019-07/26/content_1938097.htm).
+ [人民日报海外版-垃圾分类可以这样办](http://paper.people.com.cn/rmrbhwb/html/2019-07/22/content_1937219.htm).
+ [人民日报海外版-海外华侨华人安全如何保障？](http://paper.people.com.cn/rmrbhwb/html/2019-07/26/content_1938097.htm).
 
 
 
