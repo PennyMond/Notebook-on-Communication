@@ -32,12 +32,9 @@
 
 [人民日报海外版-海外华侨华人安全如何保障？](http://paper.people.com.cn/rmrbhwb/html/2019-07/26/content_1938097.htm).
 
-[人民日报海外版-握紧中国“民间大使”的接力棒](http://http://politics.people.com.cn/n1/2019/0821/c1001-31307844.html).
+[人民日报海外版-握紧中国“民间大使”的接力棒](http://politics.people.com.cn/n1/2019/0821/c1001-31307844.html).
 
-[人民日报海外版-海外华侨华人安全如何保障？](http://paper.people.com.cn/rmrbhwb/html/2019-07/26/content_1938097.htm).
-
-
-[人民日报海外版-中日之间要“相互照亮”](http://http://world.people.com.cn/n1/2019/0822/c1002-31309490.html).
+[人民日报海外版-中日之间要“相互照亮”](http://world.people.com.cn/n1/2019/0822/c1002-31309490.html).
 
 
 
