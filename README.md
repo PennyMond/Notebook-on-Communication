@@ -24,7 +24,7 @@
 ### 部分作品
 数据可视化 [澎湃-新传考研，哪家学校最难考？](https://m.thepaper.cn/newsDetail_forward_3396485).
 
-          [教育金字塔中，职业教育处于什么位置？](https://m.thepaper.cn/newsDetail_forward_4306356).
+ [教育金字塔中，职业教育处于什么位置？](https://m.thepaper.cn/newsDetail_forward_4306356).
 
 评论 [中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
 
@@ -41,6 +41,8 @@
 [人民日报海外版-中日之间要“相互照亮”](http://world.people.com.cn/n1/2019/0822/c1002-31309490.html).
 
 [人民日报海外版-法国欲当美伊关系调停人](http://world.people.com.cn/n1/2019/0831/c1002-31329093.html).
+
+[人民日报海外版-英国铁了心要“硬脱欧”吗？](http://world.people.com.cn/n1/2019/0903/c1002-31332626.html).
 
 
 
