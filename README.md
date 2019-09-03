@@ -24,6 +24,8 @@
 ### 部分作品
 数据可视化 [澎湃-新传考研，哪家学校最难考？](https://m.thepaper.cn/newsDetail_forward_3396485).
 
+          [教育金字塔中，职业教育处于什么位置？](https://m.thepaper.cn/newsDetail_forward_4306356).
+
 评论 [中国青年报-电动车“自燃”事件频发 青年群体呼吁辩证看待](http://zqb.cyol.com/html/2019-06/27/nw.D110000zgqnb_20190627_1-09.htm).
 
 新闻 [人民日报海外版-欧盟高层换届艰难过关](http://paper.people.com.cn/rmrbhwb/html/2019-07/11/content_1935428.htm).
