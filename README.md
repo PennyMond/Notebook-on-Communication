@@ -44,6 +44,16 @@
 
 [人民日报海外版-英国铁了心要“硬脱欧”吗？](http://world.people.com.cn/n1/2019/0903/c1002-31332626.html).
 
+[人民日报海外版-阿富汗和平之路再添变数](http://paper.people.com.cn/rmrbhwb/html/2019-09/12/content_1946085.htm).
+
+[人民日报海外版-“世纪协议”恐怕要“胎死腹中”](http://paper.people.com.cn/rmrbhwb/html/2019-09/14/content_1946320.htm).
+
+[人民日报海外版-安倍政府修宪变容易了吗？](http://world.people.com.cn/n1/2019/0917/c1002-31356220.html).
+
+
+
+
+
 
 
 
